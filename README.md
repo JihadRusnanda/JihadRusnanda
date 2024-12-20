@@ -89,8 +89,8 @@ As a **Test Engineer Lead**
 ---
 
 ## 🚀 Let's Connect
-- LinkedIn: [Muhammad Jihad Rusnanda](https://linkedin.com/in/your-profile)
-- Email: [email@example.com](mailto:email@example.com)
+- LinkedIn: [Muhammad Jihad Rusnanda](https://www.linkedin.com/in/muhammadjihad/)
+- Email: [muhamadjihad4@gmail.com](mailto:muhamadjihad4@gmail.com)
 
 ---
 
