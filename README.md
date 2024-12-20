@@ -81,12 +81,13 @@ As a **Test Engineer Lead**
 - Designed a **testing dashboard** to track test case execution and system performance.
 - Improved test case efficiency for APIs, reducing execution time by **30%**.
 
----
+[//]: # (---)
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=issues&count_private=true)
+[//]: # (## 📊 GitHub Stats)
 
----
+[//]: # (![Your GitHub Stats]&#40;https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=issues&count_private=true&#41;)
+
+[//]: # (---)
 
 ## 🚀 Let's Connect
 - LinkedIn: [Muhammad Jihad Rusnanda](https://www.linkedin.com/in/muhammadjihad/)
