@@ -1,43 +1,70 @@
-<h1 align="center">Hi 👋, I'm Muhammad Jihad Rusnanda</h1>
+<h1 align="center">Hi 👋, I'm Jihad Rusnanda</h1>
 <h3 align="center">Test Engineer Lead | Passionate About Financial Technology and Advanced Testing Solutions from Indonesia</h3>
 
 ---
 
 ## 🌟 About Me
 - 🔭 I’m currently working on [Stockbit](https://stockbit.com/) and [Bibit](https://bibit.id/).
-- 🌱 I’m continuously learning about **test automation frameworks** and **financial technology trends**.
+- 🌱 I’m continuously learning about **Test Automation Framework** and **Financial Technology Trends**.
 - 💬 Ask me about **automation testing**, **API testing**, and **financial systems testing**.
-- 📫 Reach me at **[email@example.com](mailto:muhamadjihad4@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/muhammadjihad/)**.
+- 📫 Reach me at **[muhamadjihad4@gmail.com](mailto:muhamadjihad4@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/muhammadjihad/)**.
 - ⚡ Fun fact: I believe in automation that saves both time and effort while maintaining reliability.
 
 ---
 
 ## 💼 What I Do at Stockbit and Bibit
-At **Stockbit** and **Bibit**, I:
-- **Lead Automation Testing**: Develop and maintain robust test automation frameworks for web and mobile applications.
-- **API Testing and Validation**: Ensure seamless integration and performance of APIs.
-- **Performance Testing**: Optimize systems to handle peak financial transactions.
-- **Mentoring**: Guide junior QA engineers in building efficient and scalable automation scripts.
-- **Financial Domain Expertise**: Collaborate with product teams to ensure compliance with financial regulations and enhance user experience.
+As a **Test Engineer Lead**
+
+### Testing & Automation:
+- **iOS Automation**: Developed testing frameworks using Cucumber Java, XCUITest, Rest Assured, Appium, GitLab CI/CD, integrated with Simulator and Appium Device Farm.
+- **Android Automation**: Built automation using Cucumber Java, UIAutomator, Rest Assured, Appium, GitLab CI/CD, integrated with Real Device Farm.
+- **API Automation**: Created frameworks with Cucumber Ruby, seamlessly integrated into GitLab CI/CD pipelines.
+- **Pipeline Maintenance**: Maintain GitLab pipelines for iOS, Android, and API testing.
+
+
+### Leadership:
+- **Team Management**:
+    - Manage a team of QA Engineers, ensuring clear communication, task delegation, and alignment with organizational goals.
+    - Conduct regular one-on-one sessions to provide feedback, address challenges, and support career growth within the team.
+    - Encourage a culture of continuous learning by organizing knowledge-sharing sessions and hands-on workshops.
+  
+- **Cross-Functional Collaboration**:
+    - Work closely with System Analyst, Product Managers, and Developers to ensure comprehensive test strategies that align with product requirements.
+    - Act as a bridge between QA and other teams to promote a quality-first mindset across the organization.
+    - Represent the QA team in stakeholder meetings, ensuring the team's contributions and challenges are well-communicated.
+
+- **Thought Leadership**:
+    - Share insights on QA involvement in financial products through company events like **ISQA Talks**.
+    - Drive innovation in testing processes by researching and adopting new tools and methodologies that improve efficiency and coverage.
+    - Lead by example in adopting best practices and fostering a positive, inclusive, and growth-oriented work environment.
+
+- **Problem-Solving & Decision-Making**:
+    - Address technical and strategic challenges in testing by evaluating risks, analyzing root causes, and implementing effective solutions.
+    - Make informed decisions on prioritizing testing efforts to meet tight deadlines without compromising quality.
+    - Support the team in troubleshooting complex issues, ensuring minimal disruption to delivery timelines.
+
+- **Automation Strategy**:
+    - Design and implement a robust automation testing strategy that aligns with company objectives and future scalability needs.
+    - Oversee the maintenance and optimization of automation frameworks for iOS, Android, and API testing.
+    - Set clear goals for the team to achieve higher automation coverage, reduce manual testing effort, and improve test execution times.
 
 ---
 
 ## 🛠️ Tools & Technologies
 ### Testing Frameworks & Tools:
-- Selenium | Appium | RestAssured | Cucumber | JUnit | Godog (Go BDD Framework)
+- Cucumber Java | XCUITest | UIAutomator | Appium | Rest Assured | JIRA Xray
+
+### CI/CD and Integration:
+- GitLab CI/CD | BrowserStack | Mac Mini Emulators
 
 ### Programming Languages:
-- Java | Go | Ruby | JavaScript
-
-### Other Tools:
-- Git | Jenkins | Docker | New Relic | Postman
+- Java | Go | Ruby
 
 ---
 
 ## 🌱 My Experiences
 ### Stockbit Bibit
-- Lead end-to-end testing processes, including **functional**, **API**, and **UI automation testing**.
-- Spearheaded performance testing initiatives to ensure the platform scales with user growth.
+- Lead end-to-end testing processes, including **functional**, **API**, and **UI Automation Testing**.
 
 ### MNC Sekuritas (Internship)
 - Assisted in automating the **securities trading system** testing process.
